@@ -17,6 +17,8 @@ import java.util.ArrayList;
  * Created by hjm on 2016/7/11.
  */
 
+
+
 public class ARecyclerviewActivity extends Activity {
 
     private ArrayList<Integer> testDataList = new ArrayList<Integer>();
